@@ -1,0 +1,6 @@
+{
+  "name": "Smykov Fashion Studio - Luisa Spagnoli FW26 Intelligence",
+  "description": "Enterprise wholesale and sell-out intelligence platform for Luisa Spagnoli FW26 orders, boutique retail analytics, JOOR reconciliation, and model training sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
